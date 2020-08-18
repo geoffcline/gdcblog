@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Shared Deductibe Plan Explained"
 date: 2020-08-18T18:53:33Z
-draft: true
+draft: false
 ---
 
 ## Components
