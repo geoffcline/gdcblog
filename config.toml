@@ -28,7 +28,7 @@ weight = 4
     startLevel = 2
 
 [params]
-    description = "Hugo is a general-purpose website framework."
+    description = "Geoffrey is a general-purpose website user."
     mainSection = "posts"
     showAllPostsOnHomePage = true
     dateFormat = "02JAN2006"
