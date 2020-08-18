@@ -1,5 +1,50 @@
 baseURL = "https://master.d23qflxoriju16.amplifyapp.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "cactus"
+title = "Geoffrey -> Blog"
+theme = "gcactus"
 
+summaryLength = 2
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Writings"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+
+[params]
+    description = "Hugo is a general-purpose website framework."
+    mainSection = "posts"
+    showAllPostsOnHomePage = true
+    dateFormat = "02JAN2006"
+
+    [[params.social]]
+    name = "github"
+    link = "https://github.com/monkeyWzr"
+
+    [[params.social]]
+    name = "email"
+    link = "monkeywzr@gmail.com" # no need for "mailto:" at the start
+
+    [[params.social]]
+    name = "linkedin"
+    link = "https://www.linkedin.com/in/monkeywzr/"
+
+    [[params.social]]
+    name = "twitter"
+    link = "https://www.linkedin.com/in/monkeywzr/"
