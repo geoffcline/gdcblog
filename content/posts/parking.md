@@ -1,7 +1,7 @@
 ---
 title: "Amazon Seattle Parking"
 date: 2020-08-19T21:32:01Z
-draft: true
+draft: false
 ---
 
 ## overview
