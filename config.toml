@@ -17,11 +17,6 @@ name = "Writings"
 url = "/posts"
 weight = 2
 
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 4
-
 [markup]
   [markup.tableOfContents]
     endLevel = 4
@@ -36,16 +31,16 @@ weight = 4
 
     [[params.social]]
     name = "github"
-    link = "https://github.com/monkeyWzr"
+    link = "https://github.com/geoffcline"
 
     [[params.social]]
     name = "email"
-    link = "monkeywzr@gmail.com" # no need for "mailto:" at the start
+    link = "geoffreyc@outlook.com"
 
     [[params.social]]
     name = "linkedin"
-    link = "https://www.linkedin.com/in/monkeywzr/"
+    link = "https://www.linkedin.com/in/geoffrey-cline/"
 
     [[params.social]]
     name = "twitter"
-    link = "https://www.linkedin.com/in/monkeywzr/"
+    link = "https://www.twitter.com/geoff_cline/"
