@@ -6,7 +6,7 @@ draft: false
 
 The deluge of notifications I receive from slack reminds me to be thankful for Outlook's robust rules system. The user interface is clunky, but it's a powerful way to wrangle your inbox. I'll describe both creating outlook rules, and some patterns I find useful. 
 
-## Structure of Outlook Rules
+## Rule Structure 
 
 As a preliminary matter, open the "Manage Rules and Alerts" window:
 
@@ -22,11 +22,11 @@ Note that rules are processed in the order displayed, and they can be moved up/d
 
 Rules have three parts.  
 
-1. Conditions, uses to determine if an incoming message triggers the rule. Messages must match *every* part of the conditions. 
-    - Examples: from specific people, certain words in subject line, 
-2. Actions, what action to perform on matched messages
+1. **Conditions** -- uses to determine if an incoming message triggers the rule. Messages must match *every* part of the conditions. 
+    - from specific people, certain words in subject line, 
+2. **Actions** -- what action to perform on matched messages
     - delete it, move it to a different folder, flag it
-3. Exceptions, the rule will not take action on a message if the message matches *any* of the exceptions. 
+3. **Exceptions** -- the rule will not take action on a message if the message matches *any* of the exceptions. 
     - the same choices as the conditions
 
 For each part, you choose one or more of the "template" options provided, and then fill in any variables. 
@@ -38,9 +38,9 @@ Each part has a lot of different options, and it can be overwhelming. I'll provi
 ## Theory
 Personally, I use three categories of emails.
 
-1. External - emails not from an Amazon domain
-2. Indirect- emails sent to lots of people, not just me
-3. Inbox - emails that don't match either of the previous two rules
+1. External -- emails not from an Amazon domain
+2. Indirect -- emails sent to lots of people, not just me
+3. Inbox -- emails that don't match either of the previous two rules
 
 I would ideally like to add an additional category -- automated (e.g., slack notifications, ticket notifications). However, these emails are often internal and sent only to me. I haven't found a good way to identify these emails using Outlook rules. 
 
