@@ -12,6 +12,8 @@ This plan is offered by both Premera and Aetna. It's administered in similar way
 
 ## Preventative Expenses
 
+![hand drawn flow chart diagram illustrating that preventative medical expenses are not subject to deductibles](breakpoint2.png)
+
 We are about to get into a complex discussion of deductibles and out of pocket expenses. 
 
 Preventative care ignores all of this. Preventative care is always covered by your insurance. On Amazon's plan, there is *no charge* for preventative care, screenings, and immunizations. In other words, if you are feeling healthy, it's free. 
@@ -20,11 +22,9 @@ However, if you get diagnosed with a medical problem (e.g., injury, sickness, di
 
 If you go into the doctor with a problem, that's not preventative care, and you will have to pay. 
 
-## Components
+## Shared Deductible Components
 
 ### 1: Premera Deductible 
-
-![hand drawn flow chart diagram illustrating that preventative medical expenses are not subject to deductibes](breakpoint2.png)
 
 The underlying plan from Premera has a deductible of $1000. This means that, after you have $1000 in medical expenses, Premera will start helping cover part of the costs. 
 
