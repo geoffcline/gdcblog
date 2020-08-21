@@ -24,6 +24,8 @@ If you go into the doctor with a problem, that's not preventative care, and you 
 
 ### 1: Premera Deductible 
 
+![hand drawn flow chart diagram illustrating that preventative medical expenses are not subject to deductibes](breakpoint2.png)
+
 The underlying plan from Premera has a deductible of $1000. This means that, after you have $1000 in medical expenses, Premera will start helping cover part of the costs. 
 
 Note that only expenses approved by Premera count towards this total. If you are at a medical facility *in network* with Premera, you don't have to worry about this. They are responsible for making sure everything they do is approved by Premera. 
@@ -93,7 +95,7 @@ Then, you lose all the money in the reimbursement account.
 
 ## Implementation
 
-![hand drawn progress bar diagram illustrating the out of pocket amounts](/images/bar2.png)
+![hand drawn progress bar diagram illustrating the out of pocket amounts](bar2.png)
 
 This account is a lot to manage. 
 
@@ -135,3 +137,4 @@ This plan is ok if you have consistently high medical expenses. For example, if 
 - evaluate the scope of this document, identify some areas that are out of scope
 - change style of key terms, maybe underline?
 - the hand drawn diagram was a neat idea, but is it clear?
+
