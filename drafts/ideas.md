@@ -1,13 +1,23 @@
 # post ideas
 
-- imanage + 
 - acne skincare for adults +
-- wacom review +
 - ebay + 
+     - difficult to write?
 - weight watchers + 
+     - in progress! 
 - moca home network +
-- quicken +
+     - simple?
+     - ez pics?
 - response to dr glock +
+     - what happened
+     - the players
+     - suprise billing
+     - who is responsible
+     - are the doctors blameless?
+     - insurance cos want in network
+     - unacceptable
+
+- wacom review + ? more time
 
 - chief best - 
 - time tracking - 
