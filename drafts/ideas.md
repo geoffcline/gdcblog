@@ -1,6 +1,5 @@
 # post ideas
 
-- acne skincare for adults +
 - ebay + 
      - difficult to write?
 - weight watchers + 
