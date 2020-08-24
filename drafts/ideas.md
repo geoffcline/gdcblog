@@ -4,9 +4,6 @@
      - difficult to write?
 - weight watchers + 
      - in progress! 
-- moca home network +
-     - simple?
-     - ez pics?
 - response to dr glock +
      - what happened
      - the players

@@ -1,7 +1,7 @@
 ---
 title: "In The Absence of A Home Ethernet Wiring"
 date: 2020-08-23T23:22:08Z
-draft: true
+draft: false
 ---
 
 My psychiatrist described my habit of showing up at resedential construction sites and demanding they install a whole home ethernet networks as "unhealthy" and "unproductive". Luckily, I avoided having to process that commend, because I found out you can repurpose common coaxial (cable television) cabling as an ethernet network using Moca. 
