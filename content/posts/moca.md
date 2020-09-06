@@ -1,10 +1,10 @@
 ---
-title: "In The Absence of A Home Ethernet Wiring"
-date: 2020-08-23T23:22:08Z
+title: "In The Absence of Home Ethernet Wiring"
+date: 2020-08-23
 draft: false
 ---
 
-My psychiatrist described my habit of showing up at resedential construction sites and demanding they install a whole home ethernet networks as "unhealthy" and "unproductive". Luckily, I avoided having to process that commend, because I found out you can repurpose common coaxial (cable television) cabling as an ethernet network using Moca. 
+My psychiatrist described my habit of showing up at resedential construction sites and demanding they install a whole home ethernet networks as "unhealthy" and "unproductive". Luckily, I avoided having to process that comment, because I found out you can repurpose common coaxial (cable television) cabling as an ethernet network using Moca. 
 
 For example, you have a cable modem that supports moca in your living room. You have a home office, and would like to connect your desktop there to the internet with a wired ethernet connection. However, it's impractical to run an ethernet cable. Check and see if there is a coaxial (e.g., cable) outlets in the office. If so, you can add a moca adapter there. Then, connect your desktop to the moca adapter with ethernet. The moca adapter creates a connection over the coax cable back to the cable modem, similar to a long ethernet cable. You now have lots of bandwith and low latency in your office, without having to run another cable!
 

@@ -1,12 +1,14 @@
-# change of cooking for quar
-
-Is 2020 too late to *stan* meal prepping? or is that fad stuck in 2016?
+---
+title: "Quarantine Cooking, or Giving up on Crisp"
+date: 2020-09-05
+draft: true
+---
 
 Given that workplace cafeterias have been wrenched from my life, I have had to make some adjustments to my home cooking. 
 
 Frankly, I simply don't have time for some bullshit anymore. 
 
-## browing of the meats chicken
+## i don't miss crisp chicken skin
 
 Many recpies for chicken include the same (extremely fussy) steps. 
 
@@ -30,17 +32,19 @@ Brown the skin in *batches*
 
 Now that you have crisp skin, don't let it wet!
 
-No crisp chicken skin is worth forsaking a flavorful sauce. 
-
-ATK often suggests puting the sauce on the plate first, to prevent it from getting on the skin. 
+ATK often suggests puting sauce on the plate first, to prevent it from getting on the skin. 
 
 Fuck. That. 
+
+No crisp chicken skin is worth forsaking a flavorful sauce. 
 
 Get the sauce all over. Bathe it in sauce. 
 
 The skin is just going to get soggy in the leftovers anyway. The sauce? That will stay just as good. 
 
 Seriously, who thinks chicken skin is worth all this? Just eat a potato chip.
+
+Let's talk about sauce. 
 
 ## others 
 

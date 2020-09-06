@@ -1,6 +1,6 @@
 ---
 title: "Acne Skincare for Adults"
-date: 2020-08-23T23:21:10Z
+date: 2020-08-23
 draft: false
 ---
 
@@ -16,7 +16,7 @@ This is chemical that kills bacteria, inclding those that want to form acne. The
 
 I use it in a fase cleanser/wash from CeraVe. It's a great product to apply after you have gotten sweaty and been exposed to the outdoors/pollution/public. It goes a step beyond normal cleansers to really reduce bacteria. 
 
-But it doesn't stop thee. Not even close. It is also "sebostatic" and "comedolytic" (wikipedia)
+But it doesn't stop thee. It is also "sebostatic" and "comedolytic" (wikipedia). Essentially, it both reduces product of new pore clogging skin oil, and helps break down old oils. 
 
 This can bleach (e.e., make white stains on) fabrics, such as pillows or shirts. I avoid this by using the face wash in the shower. 
 

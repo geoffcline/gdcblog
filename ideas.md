@@ -1,23 +1,25 @@
 # post ideas
 
+- cooking - in progress
+
 - imanage + 
-- acne skincare for adults +
 - wacom review +
 - ebay + 
 - weight watchers + 
-- moca home network +
-- quicken +
-- response to dr glock +
+
+- freshly review -
+- not like in mo -
+- hey xbox
 
 - chief best - 
 - time tracking - 
-- braising -
 - reduced sugar desserts - 
 - JEB mcsw - 
-- not like in mo -
 - always check for brand coupons -
-- freshly review -
+
 - philips on tradfri -
+- quicken +
+- response to dr glock +
 
 # other ideas
 - bookmark flow + 
