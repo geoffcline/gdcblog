@@ -1,25 +1,29 @@
 # post ideas
 
-- cooking - in progress
-
-- imanage + 
-- wacom review +
 - ebay + 
+     - difficult to write?
 - weight watchers + 
+     - in progress! 
+- response to dr glock +
+     - what happened
+     - the players
+     - suprise billing
+     - who is responsible
+     - are the doctors blameless?
+     - insurance cos want in network
+     - unacceptable
 
-- freshly review -
-- not like in mo -
-- hey xbox
+- wacom review + ? more time
 
 - chief best - 
 - time tracking - 
+- braising -
 - reduced sugar desserts - 
 - JEB mcsw - 
+- not like in mo -
 - always check for brand coupons -
-
+- freshly review -
 - philips on tradfri -
-- quicken +
-- response to dr glock +
 
 # other ideas
 - bookmark flow + 

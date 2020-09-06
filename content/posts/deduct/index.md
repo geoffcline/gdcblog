@@ -1,6 +1,6 @@
 ---
 title: "Amazon's Shared Deductible Plan Explained"
-date: 2020-08-18T18:53:33Z
+date: 2020-08-18
 draft: false
 ---
 

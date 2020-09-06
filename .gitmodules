@@ -3,4 +3,4 @@
 	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
 [submodule "themes/gcactus"]
 	path = themes/gcactus
-	url = https://github.com/geoffcline/hugo-theme-cactus.git
+	url = git@github.com:geoffcline/hugo-theme-cactus.git

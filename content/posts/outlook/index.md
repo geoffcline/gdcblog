@@ -1,6 +1,6 @@
 ---
 title: "Outlook Rules"
-date: 2020-08-19T21:32:07Z
+date: 2020-08-19
 draft: false
 ---
 
