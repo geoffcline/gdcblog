@@ -1,5 +1,5 @@
 ---
-title: "Raiting My Pain on a Scale From 1 to 10"
+title: "Pain on a Scale From 1 to 10"
 date: 2020-09-08
 draft: false
 ---
