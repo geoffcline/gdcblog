@@ -16,6 +16,11 @@ name = "Writings"
 url = "/posts"
 weight = 2
 
+[[menu.main]]
+name = "Public"
+url = "/public"
+weight = 4
+
 [markup]
   [markup.tableOfContents]
     endLevel = 4
