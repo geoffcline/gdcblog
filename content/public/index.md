@@ -2,7 +2,7 @@
 title: Public Key Authentication
 date: 2016-08-24 17:51:42
 ---
-
+ 
 ## Identity Verification
 [GPG - gcline@amazon.com](gdc-amazon-gpg.txt)
 
