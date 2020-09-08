@@ -17,8 +17,8 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "Public"
-url = "/public"
+name = "Keys"
+url = "/keys"
 weight = 4
 
 [markup]
