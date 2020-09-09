@@ -1,5 +1,6 @@
 # post ideas
 
+- just testing push rn
 - cooking - in progress
 
 - imanage + 
