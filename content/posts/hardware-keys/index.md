@@ -11,9 +11,11 @@ Smart cards are commonly used to store secret keys in hardware, where they can't
 
 Most computers do have a TPM (trusted platform module), which can be used to implement a virtual smart card. The virtual smart card lives within the secure element, and only encrypts/signs data in response to a pin. The pin entry interface is provided by windows, and is (hopefully) secure. 
 
-Shockingly, it's one command to create a virtual smart card reader and the associated card. Customize the  name and pin value below. 
+Shockingly, it's one command to create a virtual smart card reader and the associated card. 
 
-`tpmvscmgr.exe create /name MySmartCard /pin 12345678 /adminkey random /generate /attestation AIK_AND_CERT`
+```
+tpmvscmgr.exe create /name VirtualSmartCard /pin PROMPT /adminkey random /generate /attestation AIK_AND_CERT
+```
 
 [Microsoft Docs on tpmvscmgr.exe](https://docs.microsoft.com/en-us/windows/security/identity-protection/virtual-smart-cards/virtual-smart-card-tpmvscmgr)
 
@@ -22,9 +24,11 @@ Now we have a virtual smart card, but it's blank.
 
 Normally, windows requires a whole mess of active directory servers, configured certificate self enrollment policies, certificate requests. 
 
-However, we're fine with a "self-signed" certificate. We just want the public key. 
+However, we're fine with a "self-signed" certificate. We just want the public key. Make sure to customize the name in the command below.
 
-`New-SelfSignedCertificate -Subject "CN=geoffreyc@outlook.com" -KeyAlgorithm RSA -KeyLength 4096 -Provider "Microsoft Smart Card Key Storage Provider"`
+```
+New-SelfSignedCertificate -Subject "CN=Gilroy Atkins" -KeyAlgorithm RSA -KeyLength 4096 -Provider "Microsoft Smart Card Key Storage Provider"
+```
 
 [Microsoft Docs on New-SelfSignedCertificate](https://docs.microsoft.com/en-us/powershell/module/pkiclient/new-selfsignedcertificate?view=win10-ps)
 

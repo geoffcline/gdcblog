@@ -1,6 +1,7 @@
 ---
 title: "Acne Skincare for Adults"
 date: 2020-08-23
+type: spirit
 draft: false
 ---
 
