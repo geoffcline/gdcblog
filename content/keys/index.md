@@ -9,6 +9,8 @@ date: 2016-08-24 17:51:42
 
 ## Public Keys for SSH, Stored in TPM
 [Amazon HP Laptop](amazon-tpm.txt)
+[Personal ThinkPad](thinkpad-tmp.txt)
+[Personal ThinkStation](thinkstation-tpm.txt)
 
 ## Utils
 [Windows OpenSSH to Pagaent Script](pagent-bat.txt)
