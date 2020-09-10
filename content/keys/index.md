@@ -2,12 +2,13 @@
 title: Public Key Authentication
 date: 2016-08-24 17:51:42
 ---
- 
+
 ## Identity Verification
 [GPG - gcline@amazon.com](gdc-amazon-gpg.txt)
+[Outlook - gcline@amazon.com](gcline-amazon-email-cer.txt)
 
-## Key Infastructure
-[Client Authentication CA Public Cert](gdc-client-ca.txt)
+## Public Keys for SSH, Stored in TPM
+[Amazon HP Laptop](amazon-tpm.txt)
 
-## Personal Thinkpad
-[WSL Ubuntu](gdc-thinkpad-wsl-07SEP2020.txt)
+## Utils
+[Windows OpenSSH to Pagaent Script](pagent-bat.txt)
