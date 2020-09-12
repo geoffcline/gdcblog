@@ -1,7 +1,7 @@
 ---
 title: "Quarantine Cooking, or Giving up on Crisp"
 date: 2020-09-05
-draft: false
+draft: true 
 ---
 
 Given that workplace cafeterias have been wrenched from my life, I have had to make some adjustments to my home cooking. 
