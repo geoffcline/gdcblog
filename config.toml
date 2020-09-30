@@ -13,8 +13,13 @@ weight = 1
 
 [[menu.main]]
 name = "Writings"
-url = "/posts"
+url = "/posts/"
 weight = 2
+
+[[menu.main]]
+name = "Keys"
+url = "/keys/"
+weight = 3 
 
 [markup]
   [markup.tableOfContents]
@@ -26,7 +31,7 @@ weight = 2
     description = "Geoffrey is a general-purpose website user."
     mainSection = "posts"
     showAllPostsOnHomePage = true
-    dateFormat = "02JAN2006"
+    dateFormat = "02Jan2006"
 
     [[params.social]]
     name = "github"

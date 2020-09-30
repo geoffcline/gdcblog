@@ -1,6 +1,6 @@
 ---
 title: "Parking at Amazon Seattle "
-date: 2020-08-19T21:32:01Z
+date: 2020-08-18
 draft: false
 ---
 
@@ -43,7 +43,7 @@ It also shows *availability data* (e.g., the percentage free in a garage), but t
 
 You can view a [list of parking garages](https://amazon-slu.luum.com/commute/content/parking/slu-parking-garages), but it's better to use the app. 
 
-I recommend saving [this PDF](https://amazon-slu.luum.com/commute/content/parking/seattle-campus-parking-neighborhood-map) of garage locations to your phone. 
+I recommend saving [this PDF](https://amazon-slu.luum.com/commute/content/parking/seattle-campus-parking-neighborhood-map) of garage locations to your phone. The advantage of this PDF is that is *highlights the garage enterances*. 
 - blue dot is entrance
 - grey triangle is building entrance
 - grey arrow indicates one way streets
@@ -73,7 +73,7 @@ Note that you can enter Uber/Lyft expenses, in addition to parking.
 - $25 to $75 - Basic Receipt Required, can be account statement or "card swipe" receipt just showing the total
 - $75 and above - Itemized Receipt Required, showing stuff life tax and a description of the charge
 
-My suggestion to help with this paperwork? Get a prepaid debit card (e.g., Amex Bluebird) and keep it in your car. Use it just for parking. Pick a day of the month (e.g., the 10th) and save your transactions from the previous month. Upload them all at once, and refill the prepaid card at the same time. 
+My suggestion to help with this paperwork? Get a prepaid debit card (e.g., Amex Bluebird) and keep it in your car. Use it just for parking. Pick a day of the month (e.g., the 10th) and save your transactions from the previous month. Submit them to MyCommute them all at once, and refill the prepaid card at the same time. 
 
 ## Orca Card
 Don't forget you can get an 🎉 Unlimited 🎉 Orca Card for free. Just [request it](https://amazon-slu.luum.com/accounts/transitcards) on MyCommute. This won't impact your parking benefits. 
@@ -81,7 +81,7 @@ Don't forget you can get an 🎉 Unlimited 🎉 Orca Card for free. Just [reques
 ## Monthly Parking
 During the COVID emergency, new monthly spots aren't being assigned. Also, it's a minimum of $70 for monthly parking. That's after the amazon subsidy and credits for days not used. The [wait lists](https://amazon-slu.luum.com/commute/content/parking/permanent-parking-wait-time) are between 2 and 31 months!
 
-### types of garages
+### Garage Types
 - Integrated Garages
     - You automatically get a credit for days you don't park
 - [Non Integrated Garages](https://amazon-slu.luum.com/commute/content/parking/slu-parking-garages/integration-status)
@@ -89,9 +89,9 @@ During the COVID emergency, new monthly spots aren't being assigned. Also, it's 
 
 ### Commute Calendar
 
-You only need to update this if you (1) have monthly parking, and (2) park in a non-integrated lot. Then, you need to mark this calendar for the days you don't use parking. 
+You only need to update [the commute calendar](https://amazon-slu.luum.com/commute/calendar) if you (1) have monthly parking, and (2) park in a non-integrated lot. Then, you need to mark this calendar for the days you don't use parking. 
 
-https://amazon-slu.luum.com/commute/calendar
+
 
 ## Conclusion
 

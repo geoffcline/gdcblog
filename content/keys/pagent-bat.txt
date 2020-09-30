@@ -1,0 +1,3 @@
+@ECHO OFF
+SETX SSH_AUTH_SOCK \\.\pipe\ssh-pageant
+START /B "" "C:\SSH\wsl-ssh-pageant-amd64-gui.exe" --systray --winssh ssh-pageant
