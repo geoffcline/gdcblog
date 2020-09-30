@@ -55,3 +55,8 @@
     - one profile
     - pay at the user level
     - or member of premium org
+
+## persistent ideas
+- unifying bookmark flow
+- to trello?
+    - then sort into columns
