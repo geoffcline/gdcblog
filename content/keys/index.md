@@ -14,3 +14,5 @@ date: 2016-08-24 17:51:42
 
 ## Utils
 - [Windows OpenSSH to Pagaent Script](pagent-bat.txt)
+- `export GPG_TTY="$(tty)"`
+
