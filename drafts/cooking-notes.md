@@ -1,23 +1,22 @@
 ---
 title: "Quarantine Cooking, or Giving up on Crisp"
 date: 2020-09-05
-draft: true
+draft: true 
 ---
 
 Given that workplace cafeterias have been wrenched from my life, I have had to make some adjustments to my home cooking. 
 
 Frankly, I simply don't have time for some bullshit anymore. 
 
-## i don't miss crisp chicken skin
+## chicken 
 
 Many recpies for chicken include the same (extremely fussy) steps. 
 
 Get a mix of breasts and thighs
-- I'm not about trying to balance the cooking times of light and dark meat. 
-- I'll use exclusively one or the other in a recipe. 
+- I'm not about trying to balance the cooking times of light and dark meat.  
 
 Get meat on the bone -- skin on! -- but make sure to salt under the skin. 
-- it's awkward 
+- is this even possible? it's like doing surgery on a grape
 
 Get oil *just under smoking* 
 - makes my apartment smell
@@ -44,7 +43,18 @@ The skin is just going to get soggy in the leftovers anyway. The sauce? That wil
 
 Seriously, who thinks chicken skin is worth all this? Just eat a potato chip.
 
-Let's talk about sauce. 
+### things im not doing 
+- browning
+- bone-in
+- skin on
+- mix of light and dark meat
+- browning
+- fond
+
+### things i am doing
+- choosing boneless skinless breasts
+- cooking them to the right temperature
+- using salt/fat/acid/heat/herbs/citrus to create a flavorful sauce
 
 ## others 
 
@@ -53,28 +63,26 @@ The tyranny continues with vegetables. What the fuck even is "crisp tender"?
 I'm not having it with the assertion that every ingredient has a 30 second window of optimal donness. 
 
 ## more of 
-I'm out here boiling potatoes and braising green beans. The window of acceptable done-ness is like ten minutes. It's forgiving. 
+I'm out here boiling potatoes and braising green beans. The window of acceptable done-ness is like ten minutes. It's forgiving, and that's important. 
 
-- the versatility of a fridge sauce. 
-- punchy sauces
-- high acceptable zones, eg, braising 
-- large quantities
-- boneless skinless
+I'm also creating flavorful sauces. Tomoato based, olive oil based, chimichurri, tximitxurri (real thing), hummus, french cheese sauce (bechamel), chili crisp, etc. All! So! Good!
+
+It's also a great thing to have a punchy sauce in the fridge, to spice up anything throughout the week. 
 
 ## the game plan
+Here is a sample of what I made one weekend. 
 
 ### bake a steak
+I'm not going to get a stakehouse char anyway. I'm going to bake it until it's the right medium-rare internal temperature, and then apply a sauce. 
 
 ### steam some veg like it's 1999
+I love broccoli with soy sayce. Add some bacon to braised green beans. 
 
 ### potatoes 
+I enjoy french style potato salads. They have a vinegar base. It's fresh and lovely. Also, much less calories compared to mayo based salads. 
 
 ### get sauced
-- mac cheese
-- soy sauce
-    - spice it up
-- braised green beans
-- chimicuri 
+Ok, mac cheese isn't known for being remotely healthy. However, in a reasonable (i.e., small) portion size, it's a luxurious complement to a chicken breast. It's important to use at least some american cheese, to develop a rich sauce. 
 
-- reckless olive oil sauces
+
 
