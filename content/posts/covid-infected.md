@@ -9,12 +9,18 @@ I've been tested numerous times for COVID-19. It was super easy, in my experienc
 You can [order a test online through Pixel](https://www.pixel.labcorp.com/covid-19), LabCorp's premium self-directed testin`g brand. You collect a nose sample at home and ship it back. The results are delivered by email. The test only detects active infections and is not an antibody test. 
 
 **Overall, it's great!**
-- ✅ Free, Zero Dollars
-- ✅ Fast Results, Less Than 48 Hours
-- ✅ Order Online
-- ✅ Minimally Invasive (No Brain Swabs)
-- ✅ Fast Shipping, Overnight
-- ✅ Full Order to Result Online Tracking
+
+✅ Free, Zero Dollars
+
+✅ Fast Results, Less Than 48 Hours
+
+✅ Order Online
+
+✅ Minimally Invasive (No Brain Swabs)
+
+✅ Fast Shipping, Overnight
+
+✅ Full Order to Result Online Tracking
 
 
 LabCorp is one of the two major diagnostic testing companies and is very reputable. I personally confirm that my Amazon provided insurance through Premera covered 100% of the test cost. 
