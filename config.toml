@@ -1,50 +1,37 @@
 languageCode = "en-us"
 title = "Geoffrey -> Blog"
 author = "gcline"
-theme = "gcactus"
-
-summaryLength = 2
-
-# Main menu which appears below site header.
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "Writings"
-url = "/posts/"
-weight = 2
-
-[[menu.main]]
-name = "Keys"
-url = "/keys/"
-weight = 3 
-
-[markup]
-  [markup.tableOfContents]
-    endLevel = 4
-    ordered = false
-    startLevel = 2
+theme = "hugo-theme-terminal"
+paginate = 5
 
 [params]
-    description = "Geoffrey is a general-purpose website user."
-    mainSection = "posts"
-    showAllPostsOnHomePage = true
-    dateFormat = "02Jan2006"
+  contentTypeName = "posts"
+  themeColor = "orange"
+  showMenuItems = 3
+  fullWidthTheme = false
+  centerTheme = false
 
-    [[params.social]]
-    name = "github"
-    link = "https://github.com/geoffcline"
+[languages]
+  [languages.en]
+    keywords = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
 
-    [[params.social]]
-    name = "email"
-    link = "geoffreyc@outlook.com"
+    [languages.en.params.logo]
+      logoText = "Geoffrey -> Blog"
+      logoHomeLink = "/"
 
-    [[params.social]]
-    name = "linkedin"
-    link = "https://www.linkedin.com/in/geoffrey-cline/"
-
-    [[params.social]]
-    name = "twitter"
-    link = "https://www.twitter.com/geoff_cline/"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts"
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "keys"
+        name = "Keys"
+        url = "/keys"
